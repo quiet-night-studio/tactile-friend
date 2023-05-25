@@ -6,4 +6,4 @@ func _ready():
 	pass
 	
 func _process(delta):
-	TotalCountText.text = str(GameManager.TotalCount)
+	TotalCountText.text = str(GameManager.TotalCount) + " Gems"
