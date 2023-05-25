@@ -1,4 +1,4 @@
 extends Node
 
 
-var TotalCount = 1
+var TotalCount = 0
