@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/1-bit 16px icons part-1 outlines.png-11c45a6100368a5712285625c5e85b09.stex"
+path="res://.import/tile002.png-8b4927f8b882c05257973f7cfc0640ba.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/1-bit 16px icons part-1 outlines.png"
-dest_files=[ "res://.import/1-bit 16px icons part-1 outlines.png-11c45a6100368a5712285625c5e85b09.stex" ]
+source_file="res://assets/sprites/pet/idle/tile002.png"
+dest_files=[ "res://.import/tile002.png-8b4927f8b882c05257973f7cfc0640ba.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0

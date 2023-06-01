@@ -7,8 +7,8 @@
 script = ExtResource( 2 )
 
 [node name="HUD" parent="." instance=ExtResource( 1 )]
-margin_top = -20.5
-margin_bottom = 20.5
+margin_top = 19.5
+margin_bottom = 60.5
 
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true

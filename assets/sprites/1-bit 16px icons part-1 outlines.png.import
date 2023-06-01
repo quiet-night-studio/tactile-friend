@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gem.png-c28d3753a9c05558c8bb68b0051f67e8.stex"
+path="res://.import/1-bit 16px icons part-1 outlines.png-d6cf473a5e47e91b13125606f40a04d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/gem.png"
-dest_files=[ "res://.import/gem.png-c28d3753a9c05558c8bb68b0051f67e8.stex" ]
+source_file="res://assets/sprites/1-bit 16px icons part-1 outlines.png"
+dest_files=[ "res://.import/1-bit 16px icons part-1 outlines.png-d6cf473a5e47e91b13125606f40a04d1.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=false
+detect_3d=true
 svg/scale=1.0

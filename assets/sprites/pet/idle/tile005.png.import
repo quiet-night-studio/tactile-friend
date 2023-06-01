@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gem.png-c28d3753a9c05558c8bb68b0051f67e8.stex"
+path="res://.import/tile005.png-4940dd09a164d4448193dfc7037c4f85.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/gem.png"
-dest_files=[ "res://.import/gem.png-c28d3753a9c05558c8bb68b0051f67e8.stex" ]
+source_file="res://assets/sprites/pet/idle/tile005.png"
+dest_files=[ "res://.import/tile005.png-4940dd09a164d4448193dfc7037c4f85.stex" ]
 
 [params]
 
