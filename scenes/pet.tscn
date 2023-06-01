@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://assets/sprites/pet/idle/tile005.png" type="Texture" id=1]
 [ext_resource path="res://assets/sprites/pet/idle/tile001.png" type="Texture" id=2]
@@ -9,6 +9,7 @@
 [ext_resource path="res://assets/sprites/pet/sleep/2.png" type="Texture" id=7]
 [ext_resource path="res://assets/sprites/pet/sleep/1.png" type="Texture" id=8]
 [ext_resource path="res://assets/sprites/pet/sleep/0.png" type="Texture" id=9]
+[ext_resource path="res://scripts/AnimatedSprite.gd" type="Script" id=10]
 
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
@@ -28,7 +29,7 @@ animations = [ {
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 scale = Vector2( 5, 5 )
 frames = SubResource( 1 )
-animation = "sleep"
-frame = 1
+frame = 4
 speed_scale = 0.5
 playing = true
+script = ExtResource( 10 )
