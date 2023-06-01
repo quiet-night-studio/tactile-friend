@@ -6,3 +6,4 @@ This is a retro-styled Tamagatchi like game made using Godot. You click one or t
 Asset Links:
 Font - https://joebrogers.itch.io/bitpotion
 Icons - https://piiixl.itch.io/1-bit-16px-icons-part-1?download
+Pet - https://ikoiku.itch.io/16-x-16-pixel-art-character-cat
